@@ -2,6 +2,14 @@
 
 This project is developed to provide an AI agent that aids in managing tasks during your internship.  
 
+## Demo
+
+https://github.com/Sambhav242005/MultiAgent/assets/demo.mp4
+
+Or view the embedded video below:
+
+![Demo Video](demo.mp4)
+
 ## Features
 - Intelligent task management.
 - Automated reminders and notifications.
