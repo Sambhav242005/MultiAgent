@@ -1,0 +1,5 @@
+.env
+memory/memory.db
+__pycache__
+*.pyc
+sample_inputs/*
