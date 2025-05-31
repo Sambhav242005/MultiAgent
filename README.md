@@ -8,7 +8,11 @@ https://github.com/Sambhav242005/MultiAgent/assets/demo.mp4
 
 Or view the embedded video below:
 
-![Demo Video](assets/demo.mp4)
+![](https://github.com/Sambhav242005/MultiAgent/assets/demo.mp4)
+
+<video width="320" height="240" controls>
+  <source src="assets/demo.mp4" type="video/mp4">
+</video>
 
 ## Features
 - Intelligent task management.
