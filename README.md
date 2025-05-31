@@ -8,7 +8,7 @@ https://github.com/Sambhav242005/MultiAgent/assets/demo.mp4
 
 Or view the embedded video below:
 
-![](assets/demo.mp4)
+![demo](assets/demo.mp4)
 
 <video width="320" height="240" controls>
   <source src="assets/demo.mp4" type="video/mp4">
